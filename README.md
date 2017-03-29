@@ -4,4 +4,3 @@ Para esto usamos el live cd de la pagina de Gentoo, trantando de abrebiar lo mas
 ## Este tutorial no es para todos y si un paso no procede como lo especificado revisar la wiki u otro tutorial mas detallado.
 
 
-
